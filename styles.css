@@ -1,0 +1,66 @@
+:root {
+    --background-color:#00090E;
+    --text-color: #E1E1E1;
+    --primary-color:#81FE88;
+    --secondary-color: #888888;
+    --tag-color: #17101F;
+    --font-family: "prompt", sans-serif;
+    --itens-background: #171D1F;
+}
+
+*{
+    box-sizing: border-box; 
+    margin: 0; 
+    padding: 0;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-family: var(--font-family);
+    display: flex;
+    justify-content: center;
+    align-items: start;
+
+    height: 100vh;
+    gap: 27px;
+    padding: 56px 0;
+}
+
+aside {
+    background-color: var(--itens-background);
+    border-radius: 10px;
+    height: 100%;
+    padding: 40px 16px;
+    text-align: center;
+}
+
+.menu-links-list {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin-top: 80px;
+    align-items: center;
+    list-style-type: none;
+}
+
+.menu-links-list li a {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    text-decoration: none;
+}
+
+.menu-publicar {
+    border: solid 1px var(--primary-color);
+    color: var(--primary-color);
+    border-radius: 8px;
+    font-size: 18px;
+    padding: 12px 30px;
+}
+
+.menu-item {
+    font-size: 22px;
+    color: var(--secondary-color);
+}
