@@ -10,12 +10,12 @@
  <span> Course "JavaScript: Understanding promises and async/await" - Alura </span>
 </h1>
 
-<img width="1440" alt="Shopping List" src="https://github.com/user-attachments/assets/f21dab6b-493b-4cf0-807a-b5f0651eaa22">
+<img width="1440" alt="Code Connect - Upload Page" src="https://github.com/user-attachments/assets/eaed02fb-e741-45b6-af10-39a8f7b2763e">
 
 
-This repository contains the files from the project Shopping List, developed during my learning process at the course "JavaScript: Building Dynamic Pages", from Alura. The course is part of the formation ["Front-end development: courses to create web applications with HTML, CSS and JavaScript"](https://cursos.alura.com.br/formacao-javascript-front-end).
+This repository contains the files from the course "JavaScript: Understanding promises and async/await", from Alura. The course is part of the formation ["Front-end development: courses to create web applications with HTML, CSS and JavaScript"](https://cursos.alura.com.br/formacao-javascript-front-end).
 
-The objective of the course is to build a shopping list web application using HTML, CSS and JavaScript.
+The objective of the course is to build the file upload page of the fictional Code Connect application, using HTML, CSS and JavaScript. 
 
 ## 🛠️💻  Technologies and tools
 
@@ -31,30 +31,32 @@ The objective of the course is to build a shopping list web application using HT
 
 | Topic                                                            | Status | 
 | ----------------------------------------------------------------- | ------- | 
-| Building and styling the page with HTML and CSS |✅      
-| Integrating with JavaScript   |✅      
-| Generating dynamic data          |✅     
-| Inserting visual feedback |✅    
-| Interacting with items |✅   
+| Building the page |✅      
+| Asynchronicity   |✅      
+| Manipulating tags |✅     
+| Collecting form data |✅    
+| Generating interactions with the form |✅   
 
 
-✨ Practice of HTML and CSS knowledge and integration with JavaScript files;
+✨ Management of asynchronous tasks with JavaScript;
 
-✨ Implementation of functions and dynamic construction of elements in the application;
+✨ Construction of asynchronous functions with async/await methods;
 
-✨ Detection of user events and use of selectors to identify elements, with organization of functions in separate files;
+✨ Handling function returns using Promises;
 
-✨ The application allows you to dynamically insert items into a list, allowing them to be deleted and edited. The items will have the name and also the date and time they were created. You can also select a checkbox to inform that the item has been purchased.
+✨ Techniques for error management in JavaScript applications;
+
+✨ Understanding of Event Loop, Call Stack and Task Queue.
 
 
 ***
 
 ## 📲  Demonstration
 
-https://github.com/user-attachments/assets/1b9d5a45-0d91-4dfb-9b78-24b05415abcf
+https://github.com/user-attachments/assets/c42752c4-b1df-41e2-b998-47e2745bb06e
 
 ***
 
 ## 🚀  Deploy
 
-<a href="https://maluojuara.github.io/upload-files " target="_blank">Shopping List</a>
+<a href="https://maluojuara.github.io/upload-files" target="_blank">Code Connect Upload Files Page</a>
