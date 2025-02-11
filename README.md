@@ -5,7 +5,7 @@
 
 <h1>
     <a href="https://cursos.alura.com.br/course/javascript-entendendo-promises-async-await">
-      <img align="center" width="37px" src="https://yt3.googleusercontent.com/W7GokEE6ydjZFa_Tpz6yvSsDlVPTe7d4yTsJqKXy1Gbhu1BGXCfKJ_I-_TzOq37m8R9S97kQ=s900-c-k-c0x00ffffff-no-rj"></a>
+      <img align="center" width="37px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZHHD0ufmK1WAiwukpR-AztrqG7AFZwJ2g_A&s"></a>
  
  <span> Course "JavaScript: Understanding promises and async/await" - Alura </span>
 </h1>
